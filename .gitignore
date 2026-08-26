@@ -1,0 +1,14 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Secrets / credentials (never upload)
+*.pfx
+
+# NuGet
+packages/
