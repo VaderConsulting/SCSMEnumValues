@@ -7,6 +7,12 @@ WinForms tool that queries System Center Service Manager enum types from the `Se
 **Target:** .NET 4.0  
 **Output:** WinExe
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+| --- | --- | --- | --- |
+| see tree | see tree | see tree | Repository contents |
+
 ## How to open
 
 Open `SCSMEnumValues.csproj` in Visual Studio.
@@ -16,6 +22,8 @@ Open `SCSMEnumValues.csproj` in Visual Studio.
 - Visual Studio 2013 or later, .NET Framework 4.0
 
 ## Attribution and provenance
+
+Working copy from my Historical Dev folder.
 
 Dave Robinson / VaderConsulting. This is Dave's code. `Properties/AssemblyInfo.cs` still has Visual Studio template leftovers (`AssemblyCompany` Microsoft and `AssemblyCopyright` Copyright © Microsoft 2015); those attributes are not third-party authorship of the app. NuGet: AsyncBridge 0.1.1.
 
