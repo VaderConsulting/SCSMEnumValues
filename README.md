@@ -25,8 +25,8 @@ Open `SCSMEnumValues.csproj` in Visual Studio.
 
 Working copy from my Historical Dev folder.
 
-Dave Robinson / VaderConsulting. This is Dave's code. `Properties/AssemblyInfo.cs` still has Visual Studio template leftovers (`AssemblyCompany` Microsoft and `AssemblyCopyright` Copyright © Microsoft 2015); those attributes are not third-party authorship of the app. NuGet: AsyncBridge 0.1.1.
+Dave Robinson / Vader Consulting. This is Dave's code. `Properties/AssemblyInfo.cs` still has Visual Studio template leftovers (`AssemblyCompany` Microsoft and `AssemblyCopyright` Copyright © Microsoft 2015); those attributes are not third-party authorship of the app. NuGet: AsyncBridge 0.1.1.
 
 ## License
 
-MIT License. Copyright (c) 2026 VaderConsulting. See `LICENSE`.
+MIT License. Copyright (c) 2026 Vader Consulting. See `LICENSE`.
